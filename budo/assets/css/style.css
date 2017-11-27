@@ -1,0 +1,18 @@
+.field-wrapper {
+    margin: 0;
+    clear: both;
+    position: relative;
+    overflow: visible;
+}
+
+.field-wrapper label {
+    color: #484848;
+    font-weight: 600;
+    display: block;
+    padding-bottom: .8em;
+}
+
+.field-wrapper input {
+    position: relative;
+    margin-bottom: .8em;
+}

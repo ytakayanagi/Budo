@@ -3,7 +3,7 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://yujintakayanagi.com/
+ * @link       http://yujintakayanagi.com
  * @since      1.0.0
  *
  * @package    Budo

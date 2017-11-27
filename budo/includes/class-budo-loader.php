@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://yujintakayanagi.com/
+ * @link       http://yujintakayanagi.com
  * @since      1.0.0
  *
  * @package    Budo
